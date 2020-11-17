@@ -24,5 +24,9 @@ Things you may want to cover:
 * ...
 
 
+
+test_branchで追加した文章
+コンフリクトのテストだよ
+
 追加した文章
 
